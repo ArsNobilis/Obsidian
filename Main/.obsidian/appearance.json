@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "cssTheme": "Dracula Official",
+  "showViewHeader": true,
+  "translucency": false,
+  "nativeMenus": false,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "links"
+  ],
+  "textFontFamily": ""
+}

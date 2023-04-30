@@ -1,0 +1,293 @@
+{
+  "mapMarkers": [
+    {
+      "id": "casaDeLaMuerte",
+      "lastAccessed": 1682514161812,
+      "markers": [
+        {
+          "id": "ID_e81878dbf969",
+          "type": "default",
+          "loc": [
+            37.19533058280065,
+            -81.95800781250001
+          ],
+          "layer": "real",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f879fa3898c8",
+          "type": "default",
+          "loc": [
+            36.59347887826919,
+            -77.91503906250001
+          ],
+          "layer": "real",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_78eb69385949",
+          "type": "default",
+          "loc": [
+            -6.85205078125,
+            0.80078125
+          ],
+          "link": "1.Entrada",
+          "layer": "%5B%5BDeath%20House%20Map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_bbaa3ae9da79",
+          "type": "default",
+          "loc": [
+            -9.050822445981463,
+            8.245691152864064
+          ],
+          "layer": "%5B%5BDeath%20House%20Map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "TTRPG/La Casa De La Muerte/Assets/map-casaDeLaMuerte.md"
+      ]
+    },
+    {
+      "id": "casaDeLaMuerte-map",
+      "locked": true,
+      "lastAccessed": 1682747806119,
+      "markers": [
+        {
+          "id": "ID_f8689899daca",
+          "type": "default",
+          "loc": [
+            -6.896490564898957,
+            1.0927174886088034
+          ],
+          "link": "1.Entrada",
+          "layer": "%5B%5BMap-%20Death%20House.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.20493456196619317,
+            0.8620613206123696
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a84ad93a3a9a",
+          "type": "default",
+          "loc": [
+            -6.073086702610012,
+            1.2885819441141548
+          ],
+          "link": "2.Salon Principal",
+          "layer": "%5B%5BMap-%20Death%20House.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_188ab91b08ab",
+          "type": "default",
+          "loc": [
+            -6.958342498216436,
+            1.8349406884185564
+          ],
+          "link": "3.Madriguera de Lobos",
+          "layer": "%5B%5BMap-%20Death%20House.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3441353965092677,
+            0.8697928122770545
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a92878da6bd8",
+          "type": "default",
+          "loc": [
+            -5.289628880588605,
+            1.8658666550772962
+          ],
+          "link": "4.Cocina y Alacena",
+          "layer": "%5B%5BMap-%20Death%20House.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_99c9dbd94888",
+          "type": "default",
+          "loc": [
+            -5.124690391741994,
+            1.0721001775029768
+          ],
+          "link": "5.Comedor",
+          "layer": "%5B%5BMap-%20Death%20House.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_984aaac9389a",
+          "type": "default",
+          "loc": [
+            -6.011234769292532,
+            3.8348198656837247
+          ],
+          "link": "6.Salon",
+          "layer": "%5B%5BMap-%20Death%20House.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d878d949b899",
+          "type": "default",
+          "loc": [
+            -5.17623366950656,
+            4.515191132175999
+          ],
+          "link": "7.Aposentos de los Sirvientes",
+          "layer": "%5B%5BMap-%20Death%20House.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "TTRPG/La Casa De La Muerte/Assets/map-casaDeLaMuerte.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "5.5.4",
+  "version": {
+    "major": 5,
+    "minor": 5,
+    "patch": 4
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": "6.6",
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "800px",
+    "image": "[[Map- Death House.webp]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Map- Death House.webp]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [
+      "default, 39.983334, -82.983330, [[Note]]"
+    ],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": "10",
+    "minZoom": "1",
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": "1",
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": "0.3",
+    "zoomFeatures": false,
+    "id": "casaDeLaMuerte-map",
+    "lat": "50",
+    "long": "50",
+    "unit": "meters",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>.",
+  "defaultTileSubdomains": "a,b,c"
+}

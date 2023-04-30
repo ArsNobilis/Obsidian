@@ -1,0 +1,15 @@
+{
+  "attachmentFolderPath": "TTRPG/Curse of Strahd/La Casa De La Muerte/Imagenes",
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "showFrontmatter": false,
+  "strictLineBreaks": false,
+  "rightToLeft": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "es-AR"
+  ],
+  "showInlineTitle": false,
+  "promptDelete": false
+}
