@@ -1,6 +1,6 @@
 # Luthien
 
-[[La casa de la muerte - World]]    [[Awen-Julieta.pdf |Character Sheet]]
+[[La casa de la muerte - World]]    [[Luthien-Julieta.pdf |Character Sheet]]
 ![[Luthien-Portrait.jpg|300]]
 # Lvl 1 
 

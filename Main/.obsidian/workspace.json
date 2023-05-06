@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0dd39758bd395236",
+        "id": "decbf8c25593d9aa",
         "type": "tabs",
         "children": [
           {
-            "id": "e00833da3f296b27",
+            "id": "35250d8d661928aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TTRPG/La Casa De La Muerte/Sesiones/Sesion 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -72,6 +68,14 @@
               "type": "surfing-tab-tree",
               "state": {}
             }
+          },
+          {
+            "id": "82f20768858460e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -93,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPG/La Casa De La Muerte/Sesiones/Sesion 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPG/La Casa De La Muerte/Sesiones/Sesion 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TTRPG/La Casa De La Muerte/Sesiones/Sesion 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,8 +186,36 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e00833da3f296b27",
+  "active": "35250d8d661928aa",
   "lastOpenFiles": [
+    "TTRPG/La Casa De La Muerte/Assets/Character_Sheets/Beren-Portrait.png",
+    "TTRPG/La Casa De La Muerte/Assets/Tokens/Beren-Token.png",
+    "TTRPG/La Casa De La Muerte/Assets/Tokens/Roxas-Token.png",
+    "TTRPG/La Casa De La Muerte/Assets/Tokens/RobinJuth-Token.png",
+    "TTRPG/La Casa De La Muerte/Assets/Tokens/Luthien-Token.png",
+    "TTRPG/La Casa De La Muerte/Assets/Tokens/HugoTron-Token.png",
+    "TTRPG/La Casa De La Muerte/Assets/Tokens/Goroth-Token.png",
+    "TTRPG/La Casa De La Muerte/Assets/Character_Sheets/Hugo Tron-Portrait.jpg",
+    "TTRPG/La Casa De La Muerte/Assets/Character_Sheets/Goroth-Portrait.jpg",
+    "TTRPG/La Casa De La Muerte/Assets/Character_Sheets/Beren-Tesla.pdf",
+    "TTRPG/La Casa De La Muerte/Assets/Character_Sheets/Roxas-Portrait.jpg",
+    "TTRPG/La Casa De La Muerte/Assets/Character_Sheets/RobinJuth-Portrait.png",
+    "TTRPG/La Casa De La Muerte/Assets/Character_Sheets/Robin Juth- Juju.pdf",
+    "TTRPG/La Casa De La Muerte/Assets/Character_Sheets/Luthien-Julieta.pdf",
+    "test.md",
+    "TTRPG/La Casa De La Muerte/Sesiones/Sesion 1.md",
+    "TTRPG/La Casa De La Muerte/PCs/Beren.md",
+    "TTRPG/La Casa De La Muerte/Assets/Tokens/Monsters",
+    "TTRPG/La Casa De La Muerte/Assets/Campaign/Maps/map-casaDeLaMuerte.md",
+    "TTRPG/La Casa De La Muerte/Assets/Campaign/Maps",
+    "TTRPG/La Casa De La Muerte/Assets/Campaign/New folder",
+    "TTRPG/La Casa De La Muerte/Assets/Campaign/map-casaDeLaMuerte.md",
+    "TTRPG/La Casa De La Muerte/Assets/Campaign/La Casa de la Muerte.pdf",
+    "TTRPG/La Casa De La Muerte/Assets/Campaign/Death House.pdf",
+    "TTRPG/La Casa De La Muerte/Assets/Campaign",
+    "TTRPG/La Casa De La Muerte/Assets/New folder",
+    "TTRPG/La Casa De La Muerte/Lugares.md",
+    "TTRPG/La Casa De La Muerte/Links.md",
     "TTRPG/La Casa De La Muerte/Lugares/1.Entrada.md",
     "TTRPG/La Casa De La Muerte/Lugares/34.Aposentos de los Cultistas Lideres.md",
     "TTRPG/La Casa De La Muerte/Lugares/9.Habitacion Secreta.md",
@@ -206,33 +234,6 @@
     "TTRPG/La Casa De La Muerte/Lugares/13.Baño.md",
     "TTRPG/La Casa De La Muerte/Lugares/22. Acceso al Dungeon.md",
     "TTRPG/La Casa De La Muerte/Lugares/20.Dormitorio de los Niños.md",
-    "TTRPG/La Casa De La Muerte/Lugares/18.Sala de Almacenaje.md",
-    "TTRPG/La Casa De La Muerte/Lugares/16.Salon del Atico.md",
-    "TTRPG/La Casa De La Muerte/Lugares/38. Camara de los Rituales.md",
-    "TTRPG/La Casa De La Muerte/Sesiones/Sesion 1.md",
-    "TTRPG/La Casa De La Muerte/Links.md",
-    "TTRPG/La Casa De La Muerte/La casa de la muerte - World.md",
-    "TTRPG/La Casa De La Muerte/Lugares.md",
-    "TTRPG/La Casa De La Muerte/PCs/Beren.md",
-    "TTRPG/La Casa De La Muerte/Assets/Goroth-Eder.pdf",
-    "TTRPG/La Casa De La Muerte/Assets/Death House.pdf",
-    "TTRPG/La Casa De La Muerte/Assets/Beren-Tesla.pdf",
-    "TTRPG/La Casa De La Muerte/Assets/Awen-Julieta.pdf",
-    "TTRPG/La Casa De La Muerte/Assets/Map- DeathHouse Reference.webp",
-    "TTRPG/La Casa De La Muerte/Assets/Map- Death House Dungeon.webp",
-    "TTRPG/La Casa De La Muerte/Assets/Map- Death House.webp",
-    "TTRPG/La Casa De La Muerte/indice.canvas",
-    "TTRPG/La Casa De La Muerte/Assets/La Casa de la Muerte.pdf",
-    "TTRPG/La Casa De La Muerte/Assets/Luthien-Portrait.jpg",
-    "TTRPG/La Casa De La Muerte/Assets/Walter-Statblock.webp",
-    "TTRPG/La Casa De La Muerte/Assets/3k5cuavka3511.webp",
-    "TTRPG/Curse of Strahd/La Casa De La Muerte/Imagenes/3k5cuavka3511.webp",
-    "TTRPG/Wiki/Clases/Ranger",
-    "TTRPG/Wiki/Clases",
-    "TTRPG/La Casa De La Muerte/Assets/Robin Juth- Juju.pdf",
-    "TTRPG/La Casa De La Muerte/Assets/RobinJuth-Portrait.png",
-    "TTRPG/Curse of Strahd/La Casa De La Muerte/Imagenes/Pasted Image 20230428174323_663.png",
-    "TTRPG/Curse of Strahd/La Casa De La Muerte/Imagenes",
-    "TTRPG/Curse of Strahd/La Casa De La Muerte"
+    "TTRPG/La Casa De La Muerte/indice.canvas"
   ]
 }
