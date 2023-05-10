@@ -11,5 +11,8 @@
     "es-AR"
   ],
   "showInlineTitle": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "showIndentGuide": true,
+  "autoPairMarkdown": true,
+  "autoPairBrackets": true
 }

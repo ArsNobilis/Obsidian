@@ -15,15 +15,7 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "TTRPG/La Casa De La Muerte/Sesiones",
-      "template": "TTRPG/Templates/Sesion.md"
-    },
-    {
-      "folder": "TTRPG/La Casa De La Muerte/NPCs",
-      "template": "TTRPG/Templates/NPC.md"
-    },
-    {
-      "folder": "TTRPG/La Casa De La Muerte/PCs",
+      "folder": "TTRPG/DND 5e/La Casa De La Muerte/PCs",
       "template": "TTRPG/Templates/PC.md"
     }
   ],

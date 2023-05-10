@@ -1,4 +1,5 @@
 # Goroth
+![[Goroth-Portrait.jpg|300]]
 
 # Lvl: 1
 

@@ -4,6 +4,8 @@
 - [[Beren]] - Tesla
 - [[Robin Huth]]-Juju
 - [[Goroth]]-Eder
+- [[Hugotron]]-Pato
+- [[Roxas]]-Mati
 
 ## [[Quest y Preguntas]]
 

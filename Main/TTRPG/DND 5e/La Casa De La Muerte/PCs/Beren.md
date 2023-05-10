@@ -1,7 +1,8 @@
 [[La casa de la muerte - World]]    [[Beren-Tesla.pdf|Character Sheet]]
 
+# Beren
 # Lvl 1 
-
+![[Beren-Portrait.png|300]]
 # | HP 10 |  AC 15 | SPD 30 |
 
 | SKILL | STR | DEX | CON | INT | WIS | CHA |
