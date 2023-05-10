@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"type":"file","file":"TTRPG/La Casa De La Muerte/Lugares.md","id":"b9404f7b1d149b37","x":-1060,"y":-480,"width":360,"height":1420},
-		{"type":"file","file":"TTRPG/La Casa De La Muerte/Assets/Map- DeathHouse Reference.webp","id":"3272cfe89de3db60","x":-700,"y":-480,"width":1077,"height":1420}
+		{"type":"file","file":"TTRPG/La Casa De La Muerte/Assets/Campaign/Maps/Map- DeathHouse Reference.webp","id":"3272cfe89de3db60","x":-700,"y":-480,"width":1077,"height":1420}
 	],
 	"edges":[]
 }
