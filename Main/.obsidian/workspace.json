@@ -4,18 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "7cae0fecc35c9f9d",
+        "id": "e354e78c51dad875",
         "type": "tabs",
         "children": [
           {
-            "id": "96a25d3d378570e1",
+            "id": "8a8ba626c5b97de7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/DND 5e/La Casa De La Muerte/PCs/Roxas.md",
+                "file": "TTRPG/Pathfinder 2e/Bounty1/3.Bahia Whitefang.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "cf42d37e8770b117",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG/Pathfinder 2e/Bounty1/4.Hielo colapsando.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "349edd062227dd1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG/Pathfinder 2e/Bounty1/3.Bahia Whitefang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c07289ce718ca772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG/Pathfinder 2e/Bounty1/6.La guarida congelada.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "5235f260b59802dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e20154169c8ea2d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "TTRPG/Pathfinder 2e/Books/Bounty #01 - The Whitefang Wyrm.pdf"
               }
             }
           }
@@ -58,14 +111,6 @@
             }
           },
           {
-            "id": "d1f325aea64cbf1b",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "bcdef35f8cd2467d",
             "type": "leaf",
             "state": {
@@ -101,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPG/DND 5e/La Casa De La Muerte/PCs/Roxas.md",
+                "file": "TTRPG/Pathfinder 2e/Bounty1/6.La guarida congelada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPG/DND 5e/La Casa De La Muerte/PCs/Roxas.md",
+                "file": "TTRPG/Pathfinder 2e/Bounty1/6.La guarida congelada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,24 +181,6 @@
             }
           },
           {
-            "id": "186dc2e15e40123a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "TTRPG/DND 5e/La Casa De La Muerte/PCs/Roxas.md"
-              }
-            }
-          },
-          {
-            "id": "f1dc2ac16b6e3b33",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
             "id": "1f6e7ae4f3641789",
             "type": "leaf",
             "state": {
@@ -162,14 +189,33 @@
             }
           },
           {
-            "id": "f1c3a9ed02e2673e",
+            "id": "30524254891e127d",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "outline",
+              "state": {
+                "file": "TTRPG/Pathfinder 2e/Bounty1/6.La guarida congelada.md"
+              }
+            }
+          },
+          {
+            "id": "cc7715c456c16706",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "d09d63c351a87d2c",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -185,64 +231,65 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": true,
       "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-gallery:Gallery": false
+      "obsidian-gallery:Gallery": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "initiative-tracker:Intiative Tracker Encounter Builder": false
     }
   },
-  "active": "96a25d3d378570e1",
+  "active": "c07289ce718ca772",
   "lastOpenFiles": [
-    "TTRPG/DND 5e/La Casa De La Muerte/PCs/Robin Huth.md",
-    "TTRPG/DND 5e/La Casa De La Muerte/PCs/Roxas.md",
-    "TTRPG/DND 5e/La Casa De La Muerte/PCs/Luthien.md",
-    "TTRPG/DND 5e/La Casa De La Muerte/PCs/Hugotron.md",
-    "TTRPG/DND 5e/La Casa De La Muerte/PCs/Goroth.md",
-    "TTRPG/DND 5e/La Casa De La Muerte/PCs/Beren.md",
-    "TTRPG/DND 5e/La Casa De La Muerte/La casa de la muerte - World.md",
-    "TTRPG/DND 5e/La Casa De La Muerte/Assets/Character_Sheets/Hugotron-Pato.pdf",
-    "TTRPG/DND 5e/La Casa De La Muerte/Assets/Campaign/Maps/Map- DeathHouse Reference.webp",
-    "TTRPG/Pathfinder 2e",
-    "TTRPG/DND 5e",
-    "Excalidraw/Drawing 2023-05-10 19.10.40.excalidraw.md",
-    "Excalidraw",
-    "Excalidraw/Drawing 2023-05-10 19.07.56.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-28 17.42.23.excalidraw.md",
+    "TTRPG/Pathfinder 2e/Bounty1/5.Hielo Inestable.md",
+    "TTRPG/Pathfinder 2e/Bounty1/6.La guarida congelada.md",
+    "TTRPG/Pathfinder 2e/Books/Bounty #01 - The Whitefang Wyrm.pdf",
+    "TTRPG/Pathfinder 2e/Bounty1/3.Bahia Whitefang.md",
+    "TTRPG/Pathfinder 2e/Bounty1/4.Hielo colapsando.md",
+    "TTRPG/Pathfinder 2e/Bounty1/2.Seshu y Bjorn.md",
+    "TTRPG/Pathfinder 2e/Bounty1/1.Getting Started.md",
+    "TTRPG/Pathfinder 2e/Bounty1/Ssalarn_Statblock.md",
+    "TTRPG/Images/Creatures/FwlxvHlWAAEHuKl.jpg",
+    "TTRPG/Images/Creatures/Fwzt7FFWcAE0nXW.jpg",
+    "TTRPG/Images/Creatures/FwU-4p3WcAEu5dK.jpg",
+    "TTRPG/Images/Creatures/Fw5VLI1WIAIYMX_.jpg",
+    "TTRPG/Images/Creatures/Fw75kWBXgAEEbWO.jpg",
+    "TTRPG/Pathfinder 2e/Bestiary/tatzlwyrm.md",
+    "TTRPG/Pathfinder 2e/Bestiary/Ssalarn.md",
+    "TTRPG/Pathfinder 2e/Rules/tables/armor.md",
+    "TTRPG/Pathfinder 2e/Rules/traits/aberration.md",
+    "TTRPG/Pathfinder 2e/Rules/traits/aasimar-apg.md",
+    "TTRPG/Pathfinder 2e/Rules/gamemastery-guide/chapter-2-tools.md",
+    "TTRPG/Pathfinder 2e/Rules/lost-omens-gods-magic/character-options.md",
+    "TTRPG/Pathfinder 2e/Rules/gamemastery-guide/chapter-1-gamemastery-basics.md",
+    "TTRPG/Pathfinder 2e/Rules/core-rulebook/chapter-1-introduction.md",
+    "TTRPG/Pathfinder 2e/Rules/assets/img/two_actions.svg",
+    "TTRPG/Pathfinder 2e/Rules/assets/img/three_actions.svg",
+    "TTRPG/Pathfinder 2e/Rules/assets/img/single_action.svg",
+    "TTRPG/Pathfinder 2e/Rules/assets/img/reaction.svg",
+    "TTRPG/Pathfinder 2e/Rules/assets/img/load.svg",
+    "TTRPG/Pathfinder 2e/Rules/traits/zombie-b1.md",
+    "TTRPG/Pathfinder 2e/Rules/traits/xulgath-b1.md",
+    "TTRPG/Pathfinder 2e/Rules/traits/wizard.md",
+    "TTRPG/Pathfinder 2e/Rules/traits/wraith-b1.md",
+    "TTRPG/Pathfinder 2e/Rules/traits/witch-apg.md",
+    "TTRPG/Pathfinder 2e/Rules/traits/wight-b1.md",
+    "TTRPG/Pathfinder 2e/Rules/traits/wayfaring-locg.md",
+    "TTRPG/Pathfinder 2e/Rules/traits/werecreature-b1.md",
+    "TTRPG/Pathfinder 2e/Rules/traits/water.md",
+    "TTRPG/Pathfinder 2e/Rules/traits/wand.md",
+    "TTRPG/Pathfinder 2e/Rules/traits",
+    "TTRPG/Pathfinder 2e/Rules/tables",
+    "TTRPG/Pathfinder 2e/Rules/secrets-of-magic",
+    "TTRPG/Pathfinder 2e/Rules/lost-omens-world-guide",
+    "TTRPG/Pathfinder 2e/Rules/lost-omens-gods-magic",
+    "TTRPG/Pathfinder 2e/Rules/gamemastery-guide",
+    "TTRPG/Pathfinder 2e/Rules/core-rulebook",
+    "TTRPG/Pathfinder 2e/Rules/assets/img",
+    "TTRPG/Pathfinder 2e/Rules/assets",
     "TTRPG/DND 5e/La Casa De La Muerte/indice.canvas",
-    "TTRPG/DND 5e/La Casa De La Muerte/Assets/Campaign/Maps/Map- Death House.webp",
-    "TTRPG/DND 5e/La Casa De La Muerte/Assets/Campaign/Maps/Map- Death House Dungeon.webp",
-    "TTRPG/DND 5e/La Casa De La Muerte/Assets/Campaign/Maps/map-casaDeLaMuerte.md",
-    "TTRPG/DND 5e/La Casa De La Muerte/Assets/Campaign/Death House.pdf",
-    "TTRPG/DND 5e/La Casa De La Muerte/Assets/Campaign/La Casa de la Muerte.pdf",
-    "TTRPG/DND 5e/La Casa De La Muerte/Assets/Campaign/Walter-Statblock.webp",
-    "TTRPG/Curse of Strahd/La Casa De La Muerte/Imagenes/Pasted Image 20230428174323_663.png",
-    "TTRPG/DND 5e/La Casa De La Muerte/Sesiones/Sesion 1.md",
-    "TTRPG/DND 5e/La Casa De La Muerte/Assets/Character_Sheets/Goroth-Portrait.jpg",
-    "Callouts.md",
-    "TTRPG/DND 5e/La Casa De La Muerte/Lugares/33. Guarida de los Cultistas Lideres.md",
-    "TTRPG/Images/Creatures/Round boy.jpg",
-    "TTRPG/Images/Creatures/Untitled.canvas",
-    "TTRPG/Images/Creatures",
-    "TTRPG/Images",
-    "TTRPG/DND 5e/La Casa De La Muerte/Assets/Character_Sheets/Beren-Portrait.png",
-    "TTRPG/DND 5e/La Casa De La Muerte/Assets/Tokens/Beren-Token.png",
-    "TTRPG/DND 5e/La Casa De La Muerte/Assets/Tokens/Roxas-Token.png",
-    "TTRPG/DND 5e/La Casa De La Muerte/Assets/Character_Sheets/Beren-Tesla.pdf",
-    "TTRPG/DND 5e/La Casa De La Muerte/Assets/Character_Sheets/Robin Juth- Juju.pdf",
-    "test.md",
-    "TTRPG/La Casa De La Muerte/Assets/Campaign/map-casaDeLaMuerte.md",
-    "TTRPG/DND 5e/La Casa De La Muerte/Lugares.md",
-    "TTRPG/DND 5e/La Casa De La Muerte/Links.md",
-    "TTRPG/DND 5e/La Casa De La Muerte/Lugares/1.Entrada.md",
-    "TTRPG/DND 5e/La Casa De La Muerte/Lugares/34.Aposentos de los Cultistas Lideres.md",
-    "TTRPG/DND 5e/La Casa De La Muerte/Lugares/9.Habitacion Secreta.md",
-    "TTRPG/DND 5e/La Casa De La Muerte/Lugares/8.Bibilioteca.md",
-    "TTRPG/DND 5e/La Casa De La Muerte/Lugares/7.Aposentos de los Sirvientes.md",
-    "TTRPG/DND 5e/La Casa De La Muerte/Lugares/6.Salon.md",
-    "TTRPG/DND 5e/La Casa De La Muerte/Lugares/5.Comedor.md",
-    "TTRPG/DND 5e/La Casa De La Muerte/Lugares/4.Cocina y Alacena.md"
+    "TTRPG/Images/Creatures/Untitled.canvas"
   ]
 }
